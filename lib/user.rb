@@ -4,7 +4,7 @@ class User
   
   
   def initialize
-    firstName = firstname
+    firstName = firstName
   
   
 end
