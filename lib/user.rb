@@ -6,6 +6,8 @@ class User
   def initialize
     @firstName = firstName
     @lastName = lastName
+    
+  end
   
   
 end
